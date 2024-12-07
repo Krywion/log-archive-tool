@@ -16,7 +16,7 @@ The script automatically creates compressed archives with names including the cu
 Run the script with a single path argument:
 
 ```bash
-./archive_logs.sh /path/to/logs
+./log-archive.sh /path/to/logs
 ```
 
 Project idea comes from https://roadmap.sh/projects/log-archive-tool
